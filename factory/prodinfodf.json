@@ -1,0 +1,14 @@
+{
+	"name": "prodinfodf",
+	"properties": {
+		"globalConfigurations": {
+			"PolicyValidationEnabled": "true"
+		}
+	},
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "23cac98f-88c4-428b-bb1c-dbaa2c14201c",
+		"tenantId": "fdea498c-7084-411b-bbe3-7a107c7ad587"
+	}
+}
